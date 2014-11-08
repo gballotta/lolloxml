@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento IDDocumento="ID001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="documentoinformatico.xsd">
+  <datachiusura>2014-11-05</datachiusura>
+  <oggettodocumento>Delibera Comunale</oggettodocumento>
+  <soggettoproduttore>
+    <nome>Giovanni</nome>
+    <cognome>Ballotta</cognome>
+    <codicefiscale>BLLGNN76A15D488B</codicefiscale>
+  </soggettoproduttore>
+  <destinatario>
+    <nome>Lorenzo</nome>
+    <cognome>Ballotta</cognome>
+    <codicefiscale>BLLLNZ79D04D488F</codicefiscale>
+  </destinatario>
+</documento>

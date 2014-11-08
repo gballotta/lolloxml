@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="documento">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="datachiusura" type="xs:date"/>
+				<xs:element name="oggettodocumento" type="xs:string" />
+				<xs:element name="soggettoproduttore">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="nome" type="xs:string"/>
+						<xs:element name="cognome" type="xs:string"/>
+						<xs:element name="codicefiscale" type="xs:string"/>
+					</xs:sequence> </xs:complexType>
+				</xs:element>
+				<xs:element name="destinatario">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="nome" type="xs:string"/>
+							<xs:element name="cognome" type="xs:string"/>
+							<xs:element name="codicefiscale" type="xs:string"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="IDDocumento" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
