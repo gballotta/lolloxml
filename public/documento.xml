@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento IDDocumento="Id15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="documentoinformatico.xsd">
+  <datachiusura>23/11/2014</datachiusura>
+  <oggettodocumento>Diniego</oggettodocumento>
+  <soggettoproduttore>
+    <nome>Giovanni</nome>
+    <cognome>Ballotta</cognome>
+    <codicefiscale>BLLGNN76A15D488B</codicefiscale>
+  </soggettoproduttore>
+  <destinatario>
+    <nome>Lorenzo</nome>
+    <cognome>Ballotta</cognome>
+    <codicefiscale>BLLLNZ79D04D488G</codicefiscale>
+  </destinatario>
+  </documento>

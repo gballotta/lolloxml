@@ -15,3 +15,5 @@ Route::get('/', function()
 {
 	return View::make('homepage');
 });
+
+Route::post('/documentoinformaticominimo', 'DocinfminController@process');

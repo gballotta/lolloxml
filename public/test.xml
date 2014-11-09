@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento IDDocumento="Id15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="documentoinformatico.xsd">
+  <datachiusura>15/01/1976</datachiusura>
+  <oggettodocumento>Oggetto</oggettodocumento>
+  <soggettoproduttore>
+    <nome>Giovanni</nome>
+    <cognome>Ballotta</cognome>
+    <codicefiscale>BLLGNN76A15D488B</codicefiscale>
+  </soggettoproduttore>
+  <destinatario>
+    <nome>Giovanni</nome>
+    <cognome>Ballotta</cognome>
+    <codicefiscale>BLLGNN76A15D488B</codicefiscale>
+  </destinatario>
+  </documento>
